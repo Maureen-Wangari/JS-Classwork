@@ -47,6 +47,6 @@ let e = c*1;
 console.log({e});
 
 //Explicit  coersion
-let f = Number(c)
-console.log({f})
+let f = Number(c);
+console.log({f});
 
